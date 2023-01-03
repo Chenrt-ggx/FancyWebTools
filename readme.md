@@ -1,3 +1,7 @@
+# FancyWebTools
+
+![license](https://img.shields.io/github/license/Chenrt-ggx/FancyWebTools)
+
 ## 登录相关
 
 登录信息位于 `login/config.json`，每个站点共两个字段：
